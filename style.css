@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.outer{
+    width: 600px;
+    margin-right: 200px;
+    border: 1px solid bisque;
+    padding: 5px;
+}
